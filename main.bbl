@@ -1,0 +1,98 @@
+\begin{thebibliography}{10}
+
+\bibitem{vaswani2017attention}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan~N Gomez, {\L}ukasz Kaiser, and Illia Polosukhin.
+\newblock Attention is all you need.
+\newblock {\em Advances in neural information processing systems}, 30, 2017.
+
+\bibitem{zhao2023survey}
+Wayne~Xin Zhao, Kun Zhou, Junyi Li, Tianyi Tang, Xiaolei Wang, Yupeng Hou, Yingqian Min, Beichen Zhang, Junjie Zhang, Zican Dong, et~al.
+\newblock A survey of large language models.
+\newblock {\em arXiv preprint arXiv:2303.18223}, 2023.
+
+\bibitem{gehrmann2019gltr}
+Sebastian Gehrmann, Hendrik Strobelt, and Alexander~M Rush.
+\newblock Gltr: Statistical detection and visualization of generated text.
+\newblock {\em arXiv preprint arXiv:1906.04043}, 2019.
+
+\bibitem{peters2018deep}
+Matthew~E Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, and Luke Zettlemoyer.
+\newblock Deep contextualized word representations.
+\newblock {\em arXiv preprint arXiv:1802.05365}, 2018.
+
+\bibitem{devlin2018bert}
+Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova.
+\newblock Bert: Pre-training of deep bidirectional transformers for language understanding.
+\newblock {\em arXiv preprint arXiv:1810.04805}, 2018.
+
+\bibitem{liu2019roberta}
+Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis, Luke Zettlemoyer, and Veselin Stoyanov.
+\newblock Roberta: A robustly optimized bert pretraining approach.
+\newblock {\em arXiv preprint arXiv:1907.11692}, 2019.
+
+\bibitem{badaskar2008identifying}
+Sameer Badaskar, Sachin Agarwal, and Shilpa Arora.
+\newblock Identifying real or fake articles: Towards better language modeling.
+\newblock In {\em Proceedings of the Third International Joint Conference on Natural Language Processing: Volume-II}, 2008.
+
+\bibitem{lavergne2008detecting}
+Thomas Lavergne, Tanguy Urvoy, and Fran{\c{c}}ois Yvon.
+\newblock Detecting fake content with relative entropy scoring.
+\newblock {\em Pan}, 8(27-31):4, 2008.
+
+\bibitem{beresneva2016computer}
+Daria Beresneva.
+\newblock Computer-generated text detection using machine learning: A systematic review.
+\newblock In {\em Natural Language Processing and Information Systems: 21st International Conference on Applications of Natural Language to Information Systems, NLDB 2016, Salford, UK, June 22-24, 2016, Proceedings 21}, pages 421--426. Springer, 2016.
+
+\bibitem{kirchenbauer2023watermark}
+John Kirchenbauer, Jonas Geiping, Yuxin Wen, Jonathan Katz, Ian Miers, and Tom Goldstein.
+\newblock A watermark for large language models.
+\newblock In {\em International Conference on Machine Learning}, pages 17061--17084. PMLR, 2023.
+
+\bibitem{chakraborty2023possibilities}
+Souradip Chakraborty, Amrit~Singh Bedi, Sicheng Zhu, Bang An, Dinesh Manocha, and Furong Huang.
+\newblock On the possibilities of ai-generated text detection.
+\newblock {\em arXiv preprint arXiv:2304.04736}, 2023.
+
+\bibitem{mitchell2023detectgpt}
+Eric Mitchell, Yoonho Lee, Alexander Khazatsky, Christopher~D Manning, and Chelsea Finn.
+\newblock Detectgpt: Zero-shot machine-generated text detection using probability curvature.
+\newblock In {\em International Conference on Machine Learning}, pages 24950--24962. PMLR, 2023.
+
+\bibitem{bao2023fast}
+Guangsheng Bao, Yanbin Zhao, Zhiyang Teng, Linyi Yang, and Yue Zhang.
+\newblock Fast-detectgpt: Efficient zero-shot detection of machine-generated text via conditional probability curvature.
+\newblock {\em arXiv preprint arXiv:2310.05130}, 2023.
+
+\bibitem{yang2023dna}
+Xianjun Yang, Wei Cheng, Yue Wu, Linda Petzold, William~Yang Wang, and Haifeng Chen.
+\newblock Dna-gpt: Divergent n-gram analysis for training-free detection of gpt-generated text.
+\newblock {\em arXiv preprint arXiv:2305.17359}, 2023.
+
+\bibitem{sadasivan2023can}
+Vinu~Sankar Sadasivan, Aounon Kumar, Sriram Balasubramanian, Wenxiao Wang, and Soheil Feizi.
+\newblock Can ai-generated text be reliably detected?
+\newblock {\em arXiv preprint arXiv:2303.11156}, 2023.
+
+\bibitem{zhou2024humanizing}
+Ying Zhou, Ben He, and Le~Sun.
+\newblock Humanizing machine-generated content: Evading ai-text detection through adversarial attack.
+\newblock {\em arXiv preprint arXiv:2404.01907}, 2024.
+
+\bibitem{guo2023close}
+Biyang Guo, Xin Zhang, Ziyuan Wang, Minqi Jiang, Jinran Nie, Yuxuan Ding, Jianwei Yue, and Yupeng Wu.
+\newblock How close is chatgpt to human experts? comparison corpus, evaluation, and detection.
+\newblock {\em arXiv preprint arXiv:2301.07597}, 2023.
+
+\bibitem{wang2024llm}
+Rongsheng Wang, Haoming Chen, Ruizhe Zhou, Han Ma, Yaofei Duan, Yanlan Kang, Songhua Yang, Baoyu Fan, and Tao Tan.
+\newblock Llm-detector: Improving ai-generated chinese text detection with open-source llm instruction tuning.
+\newblock {\em arXiv preprint arXiv:2402.01158}, 2024.
+
+\bibitem{krishna2024paraphrasing}
+Kalpesh Krishna, Yixiao Song, Marzena Karpinska, John Wieting, and Mohit Iyyer.
+\newblock Paraphrasing evades detectors of ai-generated text, but retrieval is an effective defense.
+\newblock {\em Advances in Neural Information Processing Systems}, 36, 2024.
+
+\end{thebibliography}
