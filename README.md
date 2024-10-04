@@ -37,8 +37,13 @@
 
 - 第十七届全国大学生信息安全竞赛作品赛一等奖
 - 第十七届全国大学生信息安全竞赛作品赛最具创新创业价值奖
+<div style="display: flex; justify-content: space-around;">
+  <img src="figures/一等奖.png" alt="Image 1" style="width: 45%;">
+  <img src="figures/最具创新创业价值奖.png" alt="Image 2" style="width: 45%;">
+</div>
+
 - 2024年中国网络安全创新创业大赛总决赛大学生创新创业作品赛投资价值奖第一名
-![image](figures/image.png)
+ ![image](figures/image.png)
 
 
 ## 贡献和免责声明
